@@ -1,0 +1,11 @@
+HTTrack3.49-5 launched on Mon, 02 Dec 2024 21:48:33 at http://gmail.com
+(httrack http://gmail.com -O /home/kalikali/website_clone )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:48:35	Warning: 	Moved Permanently for gmail.com/
+21:48:35	Warning: 	File has moved from gmail.com/ to https://mail.google.com/mail/u/0/
+21:48:35	Warning: 	No data seems to have been transferred during this session! : restoring previous one!
